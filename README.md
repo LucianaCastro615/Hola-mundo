@@ -3,4 +3,4 @@
 Mi Primer Repositorio
 
 I like  it smile,  laugh.
-i love ice cream, pizza , dogs.
+I love ice cream, pizza , dog.
